@@ -1,4 +1,3 @@
-
 # Jerry Finol
 
 ## QA Automation Consultant
@@ -40,7 +39,7 @@ Technologies:
 * GitHub Actions
 
 Repository:
-https://github.com/jerryfinol17/taskflow-playwright-typescript-framework
+[https://github.com/jerryfinol17/taskflow-playwright-typescript-framework](https://github.com/jerryfinol17/taskflow-playwright-typescript-framework)
 
 ---
 
@@ -55,7 +54,7 @@ Technologies:
 * Pytest
 
 Repository:
-https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework
+[https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework](https://github.com/jerryfinol17/Python-Playwright-Saucedemo-Pom-Framework)
 
 ---
 
@@ -70,7 +69,7 @@ Technologies:
 * Allure
 
 Repository:
-https://github.com/jerryfinol17/selenium-python-saucedemo-pom-framework
+[https://github.com/jerryfinol17/selenium-python-saucedemo-pom-framework](https://github.com/jerryfinol17/selenium-python-saucedemo-pom-framework)
 
 ---
 
@@ -88,7 +87,7 @@ Email:
 [jerrytareas17@gmail.com](mailto:jerrytareas17@gmail.com)
 
 LinkedIn:
-linkedin.com/in/jerry-finol
+[linkedin.com/in/jerry-finol](https://linkedin.com/in/jerry-finol)
 
 GitHub:
-github.com/jerryfinol17
+[github.com/jerryfinol17](https://github.com/jerryfinol17)
