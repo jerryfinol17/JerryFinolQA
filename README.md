@@ -91,3 +91,5 @@ LinkedIn:
 
 GitHub:
 [github.com/jerryfinol17](https://github.com/jerryfinol17)
+
+<script src="https://scmzdhkztkcmfejyvmvc.supabase.co/functions/v1/widget" data-project="bdbef527d07a4f5c81907583062930c0" data-app-url="https://www.bugcomment.com" defer></script>
