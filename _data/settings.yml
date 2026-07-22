@@ -26,7 +26,7 @@ menu_settings:
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: "/contact/"
+  cta_button_link: "mailto:Jerrytest124@gmail.com"
   cta_button_text: Say Hello!
 
 
@@ -35,24 +35,25 @@ cta_button:
 author:
   author_intro: Hey, I’m Jerry Finol
   author_name: Jerry Finol
-  author_role: Quality Assurance Engineer
+  author_role: Quality Assurance • UX Reviews • Automation
   author_avatar: /images/01.jpg
 
 
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: One Stop Daily <em>News,</em> <em>Article,</em> <em>Inspiration</em>. # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
+  sidebar_title: Understand first, <em> Test second,</em> <em>Explain always</em>. # You can add an 'em' element to highlight text.
+  sidebar_description: I help startups uncover friction, confusing user journeys, and hidden risks before they impact real customers—turning QA into actionable improvements, not just bug reports.
 
 
 # Social Links
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://www.facebook.com/people/Jerry-Finol-QA/"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/JerryFinolQA?s=20"}
+- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://www.facebook.com/JerryFinolQA"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/jerryfinol17"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://www.instagram.com/jerryfinolqa/"}
 - {icon: "fa-brands fa-linkedin", name: "Linkedin", link: "https://www.linkedin.com/in/jerry-finol"}
+- {icon: "fa-brands fa-reddit", name: "Reddit", link: "https://www.reddit.com/user/Jerry_Finol17/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" }
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://fontawesome.com/icons
