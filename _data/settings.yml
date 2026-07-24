@@ -71,24 +71,29 @@ projects:
 # Testimonials Settings
 testimonials:
   enable: true
-  testimonials_title: Trusted by <em>Professionals</em> # You can add an 'em' element to highlight text.
-  testimonials_description: Join our community of creative professionals where you can develop your talents and reach new heights in design.
+  testimonials_title: Trusted by <em>Founders</em> # You can add an 'em' element to highlight text.
+  testimonials_description: Real feedback from founders and builders who used my QA reviews to discover hidden issues, improve their products, and create better experiences for their users.
 
 testimonial-items:
-  - name: Amelia Jones
-    image: "/images/client-1.jpg"
-    designation : Network Engineer
-    content : This product designer is an expert in his field. His ability to understand the needs of clients and create designs that satisfy them is astounding.
+  - name: WorkInPilot Team
+    image: "/images/workinpilot.webp"
+    designation : Co-Founder
+    content : WOW best in-depth review yet. We're still digesting the report. I only wish we had promoted our pending upgrades before the review, but we'll be back next time with improvements based on your great feedback. Thanks — we really appreciate it!
 
-  - name: Ethan Robinson
-    image: "/images/client-2.jpg"
-    designation : Blockchain Developer
-    content : Kevin is a true visionary in the field of product design. His ability to think outside the box and push boundaries is what sets him apart from the rest.
+  - name: TickerRisk Team
+    image: "/images/TR logo.png"
+    designation : Founder
+    content : Thank you so much for testing my page. You found things that I, as its builder, didn't find, simply, wow, cannot recommend you enough!
 
-  - name: Matthew Garcia
-    image: "/images/client-3.jpg"
-    designation : IT Support Specialist
-    content : I cannot recommend this designer highly enough. Their designs are not only visually stunning but also highly functional, making them perfect for our needs.
+  - name: BugComment team
+    image: "/images/BC logo.png"
+    designation : Founder
+    content : Thank you so much for taking the time to thoroughly test the product and for pointing out these bugs and usability issues. I really appreciate your detailed feedback, and these are all things I plan to fix as soon as possible.
+
+  - name: NoviSense team
+    image: "/images/Novisense logo.png"
+    designation : Founder
+    content : Thank you, I really appreciate all the feedback! I will definitely address all these. It helped with finding the email bug, which was a big one, so I appreciate it.
 
 
 #-------------------------------
@@ -146,7 +151,7 @@ gallery_images:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false #por los momentos hasta que contratemos un servicio de newsletter
   mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
   mailchimp_description: Join now and never miss out on our stuff again. Because you are worth it!
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
