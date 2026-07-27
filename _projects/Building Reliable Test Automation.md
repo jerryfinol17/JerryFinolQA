@@ -1,6 +1,6 @@
 ---
 title: Building Reliable Test Automation
-date: 05/27/2026 
+date: 2026-05-27 14:30:00 -0400
 subtitle: Development
 image: '/images/project-example-2.jpg'
 
@@ -49,7 +49,6 @@ This project focuses on solving those engineering challenges rather than hiding 
   <div class="gallery">
     <img src="/images/First%20Cov%20Report%20PEF.png" loading="lazy" alt="Project">
   </div>
-  <em>Photo by <a href="https://unsplash.com/@rpnickson">Roberto Nickson</a> on <a href="https://unsplash.com/">Unsplash</a></em>
 </div>
 
 ## The Solution
