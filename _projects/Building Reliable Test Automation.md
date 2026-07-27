@@ -10,8 +10,8 @@ Something I enjoy just as much as testing products is building the tools that ma
 This framework was designed as if it were going into production—not simply to automate test cases, but to demonstrate maintainability, scalability, and engineering decisions that teams can build upon.
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
-    <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/PEF-architecture.png" loading="lazy" alt="Project">
+    <img src="{{'/images/project-example-2.jpg' | relative_url}}" loading="lazy" alt="Project">
+    <img src="{{ '/images/PEF-architecture.png' | relative_url }}" alt="PEF architecture" loading="lazy">
   </div>
 </div>
 
@@ -47,7 +47,7 @@ This project focuses on solving those engineering challenges rather than hiding 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/First-Cov-Report-PEF.png" loading="lazy" alt="Project">
+    <img src="{{'/images/First-Cov-Report-PEF.png'| relative_url}}" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Every architectural decision was made with long-term maintainability in mind.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Cov-report-PEF.png" loading="lazy" alt="Project">
+    <img src="{{'/images/Cov-report-PEF.png' | relative_url}}" loading="lazy" alt="Project">
   </div>
 </div>
 
