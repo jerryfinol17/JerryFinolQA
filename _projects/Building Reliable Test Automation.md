@@ -1,6 +1,6 @@
 ---
 title: Building Reliable Test Automation
-date: 2026-05-27 14:30:00 -0400
+date: 2026-05-27
 subtitle: Development
 image: '/images/project-example-2.jpg'
 
@@ -11,7 +11,7 @@ This framework was designed as if it were going into production—not simply to 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
     <img src="/images/project-example-2.jpg" loading="lazy" alt="Project">
-    <img src="/images/PEF%20architecture.png" loading="lazy" alt="Project">
+    <img src="/images/PEF-architecture.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -47,7 +47,7 @@ This project focuses on solving those engineering challenges rather than hiding 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/First%20Cov%20Report%20PEF.png" loading="lazy" alt="Project">
+    <img src="/images/First-Cov-Report-PEF.png" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -69,7 +69,7 @@ Every architectural decision was made with long-term maintainability in mind.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/Cov%20report%20PEF.png" loading="lazy" alt="Project">
+    <img src="/images/Cov-report-PEF.png" loading="lazy" alt="Project">
   </div>
 </div>
 
