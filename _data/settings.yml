@@ -3,7 +3,7 @@
 title: Jerry Finol QA
 logo: "/images/JerryFinolQA.svg" # You can add own logo. For example '/images/logo.png'.
 logo_dark: "/images/JerryFinolQADark.svg"
-description: Baleon is a stylish and multifunctional theme for Jekyll
+description: Helping startups uncover bugs, usability issues, and hidden friction before they reach real users.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
