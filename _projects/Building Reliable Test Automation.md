@@ -9,9 +9,8 @@ Something I enjoy just as much as testing products is building the tools that ma
 
 This framework was designed as if it were going into production—not simply to automate test cases, but to demonstrate maintainability, scalability, and engineering decisions that teams can build upon.
 <div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    <img src="{{'/images/project-example-2.jpg' | relative_url}}" loading="lazy" alt="Project">
-    <img src="{{ '/images/PEF-architecture.png' | relative_url }}" alt="PEF architecture" loading="lazy">
+  <div class="gallery">
+    <img src="{{'/images/08-2.jpg' | relative_url}}" loading="lazy" alt="Project">
   </div>
 </div>
 
@@ -30,6 +29,12 @@ Designed to simulate the level of automation expected in a production environmen
 **Continuous Integration with GitHub Actions**
 
 Every component was built with maintainability, scalability, and engineering best practices in mind.
+
+<div class="gallery-box">
+   <div class="gallery">
+      <img src="{{ '/images/PEF-architecture.png' | relative_url }}" alt="PEF architecture" loading="lazy">
+   </div>
+</div>
 
 ## The Challenge
 
