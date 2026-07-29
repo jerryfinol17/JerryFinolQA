@@ -1,6 +1,7 @@
 ---
 title: Building Automation That Survives Change
 date: 2026-7-28
+featured: true
 subtitle: Playwright • TypeScript • Quality Engineering
 image: '/images/11.jpg'
 ---

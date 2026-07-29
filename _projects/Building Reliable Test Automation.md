@@ -1,6 +1,7 @@
 ---
 title: Building Reliable Test Automation
 date: 2026-07-27
+featured: true
 subtitle: Automation • Playwright • TypeScript
 image: '/images/project-example-2.jpg'
 
