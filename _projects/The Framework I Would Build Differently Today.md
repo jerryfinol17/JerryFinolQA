@@ -1,6 +1,6 @@
 ---
 title: The Framework I Would Build Differently Today
-date: 2024-05-16 08:01:35 +0300
+date: 2026-07-26 
 subtitle: Python • Playwright • Learning Through Practice
 image: '/images/pexels-paras-4218883.jpg'
 ---
