@@ -3,6 +3,7 @@ layout: post
 title: What Quality Assurance Means to Me
 date: 2026-07-29 
 featured: true
+featured_order: 1
 image: 'images/pexels-algrey-37405089.jpg'
 tags: [Thoughts on Quality • Philosophy]
 ---
