@@ -1,7 +1,7 @@
 ---
 title: Building Automation That Survives Change
 date: 2026-6-28
-subtitle: Framework Design
+subtitle: Playwright • TypeScript • Quality Engineering
 image: '/images/11.jpg'
 ---
 Something I've learned while building automation is that writing tests isn't the difficult part.
