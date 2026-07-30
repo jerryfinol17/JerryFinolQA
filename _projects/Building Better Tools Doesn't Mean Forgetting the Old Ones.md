@@ -1,7 +1,6 @@
 ---
 title: Building Better Tools Doesn't Mean Forgetting the Old Ones
 date: 2026-07-30
-featured: true
 subtitle: Selenium • Python • Page Object Model
 image: 'images/pexels-peaky-31343288.jpg'
 ---
