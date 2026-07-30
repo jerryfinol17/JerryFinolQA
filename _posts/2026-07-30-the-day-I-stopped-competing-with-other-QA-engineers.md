@@ -5,7 +5,7 @@ description: Design leadership plays a crucial role in guiding teams towards suc
 date: 2026-07-30
 featured: true
 featured_order: 20
-image: '/images/images/pexels-enricoperini-736087.jpg'
+image: 'images/pexels-enricoperini-736087.jpg'
 tags: [Thoughts on Quality • Professional Growth • Product Thinking]
 ---
 When I first started learning Quality Assurance through a bootcamp, I thought I knew exactly how to become a great QA engineer.
